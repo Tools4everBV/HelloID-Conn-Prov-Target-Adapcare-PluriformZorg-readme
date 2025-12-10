@@ -8,8 +8,10 @@
 > [!IMPORTANT]
 > This connector was created using an API that was still in development. Therefore, in its current state, the import scripts only work when concurrent actions are set to one. This means it may take some time to complete, depending on the amount of data that needs to be retrieved.
 
+<br />
+
 <p align="center">
-  <img src="">
+  <img src="https://github.com/Tools4everBV/HelloID-Conn-Prov-Target-Adapcare-PluriformZorg-readme/blob/main/Logo.png?raw=true" height=75>
 </p>
 
 ## Table of contents
